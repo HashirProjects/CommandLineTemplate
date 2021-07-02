@@ -1,6 +1,6 @@
 """Runs the command parser and handles exceptions"""
-from .command_executor import CommandExecutor
-from .command_parser import CommandParser
+from src.command_executor import CommandExecutor
+from src.command_parser import CommandParser
 
 
 if __name__ == "__main__":
